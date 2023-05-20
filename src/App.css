@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+ 
+}
+
+table{
+  border-collapse: collapse;
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+  /* padding: 35px; */
+  width: 100%;
+  font-size: 1rem;
+}
+
+tr{
+  width: 20%;
+}
+
+img{
+  height: 30px;
+  width: 30px;
+}
+
+td{
+  border-bottom: 1px solid white;
+  text-align: center;
+  height: 50px;
+}
+
+#head{
+  background-color: aliceblue;
+  color: black;
+  font-size: 1.5rem;
+}
